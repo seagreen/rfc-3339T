@@ -42,7 +42,7 @@ Use some other channel to communicate this information.
 
 # Note on minimalism
 
-The goal of this specification is NOT to be the most minimal subset of ISO 3339 that can still communicate all the relevant information.
+The goal of this specification isn't to be the most minimal subset of ISO 3339 that can still communicate all the relevant information.
 
 Rather, it is make RFC 3339 just small enough that it becomes a strict subset of ISO 8601.
 
